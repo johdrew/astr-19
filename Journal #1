@@ -1,0 +1,3 @@
+c = 'Hi, my name is John Henry Drew. My pronouns are he/him. My favorite movie is \'Chasing Mavericks\' which takes place in Santa Cruz. My favorite food is Indian food.'
+>>> print(c)
+Hi, my name is John Henry Drew. My pronouns are he/him. My favorite movie is 'Chasing Mavericks' which takes place in Santa Cruz. My favorite food is Indian food.

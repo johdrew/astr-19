@@ -1,3 +1,20 @@
-c = 'Hi, my name is John Henry Drew. My pronouns are he/him. My favorite movie is \'Chasing Mavericks\' which takes place in Santa Cruz. My favorite food is Indian food.'
->>> print(c)
-Hi, my name is John Henry Drew. My pronouns are he/him. My favorite movie is 'Chasing Mavericks' which takes place in Santa Cruz. My favorite food is Indian food.
+def main():
+    name = 'John Henry Drew'
+    pronouns = 'he/him'
+    fav_movie = 'Chasing Mavericks'
+    fav_food = 'poke'
+
+    print('name:', name)
+
+    if pronouns:
+        print('pronouns:', pronouns)
+
+    print('fav_movie:', fav_movie)
+    print('fav_food:', fav_food)
+
+if __name__ == '__main__':
+    main()
+
+
+
+

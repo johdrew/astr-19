@@ -1,6 +1,6 @@
 import numpy as np
 from tabulate import tabulate
-from astropy.table import Table
+
 def main():
 	x = np.linspace(0,2*np.pi,1000)
 	y = np.sin(x)
